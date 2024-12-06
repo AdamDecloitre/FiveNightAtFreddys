@@ -1,0 +1,1 @@
+Suite à un bug dans le mode responsive pour activer le menu cacher cliquer sur la gauche du titre.
